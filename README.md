@@ -6,4 +6,4 @@ the sales came from (e.g., which country or what type of customer). This helps t
 understand where their money is coming from and where they might need to make changes.
 
 Tool Used :
-    Power BI - Dashboard Visualization
+    Power BI - Data Visualization and Analysis
